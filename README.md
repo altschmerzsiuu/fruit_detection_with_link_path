@@ -10,7 +10,7 @@ This project implements a fruit and vegetable classification system using a Conv
 
 ## Installation
 ### Prerequisites
--Ensure you have the following installed:
+- Ensure you have the following installed:
     - Python 3.8 or above
     - TensorFlow 2.x
     - NumPy
