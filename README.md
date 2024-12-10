@@ -18,6 +18,8 @@ This project implements a fruit and vegetable classification system using a Conv
 - Install the required Python libraries:
   ```bash
       pip install tensorflow numpy matplotlib
+## Dataset
+- Datasets can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1qZf2YyMOeEhmGFyiiz-tP_UCaY53xzwt?usp=drive_link)
 
 ## Dataset Structure
 - Organize the dataset into the following folder structure:
